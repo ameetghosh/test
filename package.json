@@ -11,6 +11,8 @@
     "build": "lerna run build",
     "pub": "lerna publish",
     "ls": "lerna ls"
+  },"publishConfig": {
+    "access": "public"
   },
   "devDependencies": {
     "@babel/preset-env": "^7.5.5",

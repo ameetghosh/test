@@ -1,0 +1,18 @@
+36 error Error: Command failed: git commit -m feat(release): publish
+36 error Author identity unknown
+36 error
+36 error *** Please tell me who you are.
+36 error
+36 error Run
+36 error
+36 error   git config --global user.email "you@example.com"
+36 error   git config --global user.name "Your Name"
+36 error
+36 error to set your account's default identity.
+36 error Omit --global to set the identity only in this repository.
+36 error
+36 error fatal: unable to auto-detect email address (got 'ameet@INNOIL988M.(none)')
+36 error
+36 error     at makeError (/Users/ameet/lerna-example-master/node_modules/execa/index.js:174:9)
+36 error     at /Users/ameet/lerna-example-master/node_modules/execa/index.js:278:16
+36 error     at processTicksAndRejections (internal/process/task_queues.js:95:5)

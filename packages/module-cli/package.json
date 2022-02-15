@@ -15,8 +15,11 @@
   },
   "dependencies": {
     "@ak/module-core": "^1.0.4"
+  },"publishConfig": {
+    "access": "public"
   },
   "devDependencies": {
     "typescript": "3.5.3"
-  }
+  },
+  "gitHead": "1823ecdb6758e273b01f4784728bcca3caaaf721"
 }
