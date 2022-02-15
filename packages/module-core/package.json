@@ -1,6 +1,6 @@
 {
   "name": "@ak/module-core",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "private": false,
   "main": "build/index",
   "types": "build/index",
@@ -17,6 +17,6 @@
     "typescript": "3.5.3"
   },
   "dependencies": {
-    "@ak/module-interfaces": "^1.0.3"
+    "@ak/module-interfaces": "^1.0.4"
   }
 }

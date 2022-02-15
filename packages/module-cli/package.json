@@ -1,6 +1,6 @@
 {
   "name": "@ak/module-cli",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "build/index",
   "types": "build/index",
   "private": false,
@@ -14,7 +14,7 @@
     "prepublishOnly": "npm run build"
   },
   "dependencies": {
-    "@ak/module-core": "^1.0.3"
+    "@ak/module-core": "^1.0.4"
   },
   "devDependencies": {
     "typescript": "3.5.3"
