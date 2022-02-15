@@ -4,7 +4,7 @@
   "compilerOptions": {
     "baseUrl": ".",
     "paths": {
-      "@ak/*": ["packages/*/src"]
+      "ak/*": ["packages/*/src"]
     }
   }
 }
