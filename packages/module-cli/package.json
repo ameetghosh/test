@@ -1,5 +1,5 @@
 {
-  "name": "ak/module-cli",
+  "name": "ak23/module-cli",
   "version": "1.0.5",
   "main": "build/index",
   "types": "build/index",
@@ -14,7 +14,7 @@
     "prepublishOnly": "npm run build"
   },
   "dependencies": {
-    "ak/module-core": "^1.0.5"
+    "ak-module-core": "^1.0.5"
   },
   "publishConfig": {
     "access": "public"

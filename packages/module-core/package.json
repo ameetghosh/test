@@ -1,5 +1,5 @@
 {
-  "name": "ak/module-core",
+  "name": "ak-module-core",
   "version": "1.0.5",
   "private": false,
   "main": "build/index",
@@ -20,7 +20,7 @@
     "access": "public"
   },
   "dependencies": {
-    "ak/module-interfaces": "^1.0.5"
+    "ak-module-interfaces": "^1.0.5"
   },
   "gitHead": "1261af6ae11f4460226010e4548cc2721d0c11b3"
 }

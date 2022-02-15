@@ -1,4 +1,4 @@
-import { FuncTest } from 'ak/module-interfaces';
+import { FuncTest } from 'ak-module-interfaces';
 
 const func = (): FuncTest => 42;
 
