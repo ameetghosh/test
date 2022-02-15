@@ -1,6 +1,7 @@
 {
   "name": "@ak/module-interfaces",
   "version": "1.0.3",
+  "private": false,
   "main": "build/index",
   "types": "build/index",
   "files": [
