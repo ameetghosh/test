@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "npmClient": "npm",
   "packages": [
     "packages/*"
@@ -10,7 +10,7 @@
         "ignored-file",
         "*.md"
       ]
-        },
+    },
     "bootstrap": {
       "npmClientArgs": [
         "--no-package-lock"
