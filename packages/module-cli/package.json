@@ -1,0 +1,21 @@
+{
+  "name": "@ak/module-cli",
+  "version": "1.0.0",
+  "main": "build/index",
+  "types": "build/index",
+  "files": [
+    "build"
+  ],
+  "scripts": {
+    "build": "npm run clean && npm run compile",
+    "clean": "rm -rf ./build",
+    "compile": "tsc -p tsconfig.build.json",
+    "prepublishOnly": "npm run build"
+  },
+  "dependencies": {
+    "@ak/module-core": "^1.0.0"
+  },
+  "devDependencies": {
+    "typescript": "3.5.3"
+  }
+}
