@@ -1,6 +1,6 @@
 {
   "name": "@ak/module-core",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "private": false,
   "main": "build/index",
   "types": "build/index",
@@ -15,11 +15,12 @@
   },
   "devDependencies": {
     "typescript": "3.5.3"
-  },"publishConfig": {
+  },
+  "publishConfig": {
     "access": "public"
   },
   "dependencies": {
-    "@ak/module-interfaces": "^1.0.4"
+    "@ak/module-interfaces": "^1.0.5"
   },
   "gitHead": "1823ecdb6758e273b01f4784728bcca3caaaf721"
 }

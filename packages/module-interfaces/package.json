@@ -1,6 +1,6 @@
 {
   "name": "@ak/module-interfaces",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "private": false,
   "main": "build/index",
   "types": "build/index",
@@ -13,10 +13,9 @@
     "compile": "tsc -p tsconfig.build.json",
     "prepublishOnly": "npm run build"
   },
-
-"publishConfig": {
-  "access": "public"
-},
+  "publishConfig": {
+    "access": "public"
+  },
   "devDependencies": {
     "typescript": "3.5.3"
   },

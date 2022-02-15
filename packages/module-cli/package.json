@@ -1,6 +1,6 @@
 {
   "name": "@ak/module-cli",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "main": "build/index",
   "types": "build/index",
   "private": false,
@@ -14,8 +14,9 @@
     "prepublishOnly": "npm run build"
   },
   "dependencies": {
-    "@ak/module-core": "^1.0.4"
-  },"publishConfig": {
+    "@ak/module-core": "^1.0.5"
+  },
+  "publishConfig": {
     "access": "public"
   },
   "devDependencies": {
